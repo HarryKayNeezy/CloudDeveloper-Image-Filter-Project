@@ -1,9 +1,9 @@
-# =====================================================
+## ===========================================
 
 # CloudDeveloper-Image-Filter-Project - Harry K. Ablor
 Project Submission. Second project in Udacity's NanoDegree Cloud Developer Course.
 
-# =====================================================
+## ===========================================
 
 
 # Udagram Image Filtering Microservice
