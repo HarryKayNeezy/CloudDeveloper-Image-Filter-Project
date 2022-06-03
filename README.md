@@ -4,7 +4,7 @@
 Project Submission. Second project in Udacity's NanoDegree Cloud Developer Course.
 
 ### ===========================================
-### ===========================================
+
 
 # Udagram Image Filtering Microservice
 
